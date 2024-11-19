@@ -1,0 +1,6 @@
+github_owner       = "stwins60"
+github_repo        = "stwins60/artistAPI"
+github_branch      = "master"
+github_token       = ""
+role_name          = "devops-fullstack-role"
+ecr_repository_url = "269629789070.dkr.ecr.us-east-1.amazonaws.com/devops-fullstack-demo"
